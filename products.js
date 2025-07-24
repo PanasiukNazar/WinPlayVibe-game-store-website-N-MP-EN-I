@@ -6,7 +6,7 @@ initStore([
             'Open-world action RPG with stunning visuals and deep lore, available for PC with full controller support.',
         price: 59.99,
         discountPrice: 79.99,
-        image: 'img/service-1.jpg',
+        image: 'images/service-1.jpg',
     },
     {
         id: 2,
@@ -15,7 +15,7 @@ initStore([
             'Epic action-adventure game with a gripping story and intense combat, designed for PlayStation 5 consoles.',
         price: 69.99,
         discountPrice: 79.99,
-        image: 'img/service-2.jpg',
+        image: 'images/service-2.jpg',
     },
     {
         id: 3,
@@ -24,7 +24,7 @@ initStore([
             'Open-world racing game featuring dynamic seasons and stunning landscapes, optimized for Xbox Series X.',
         price: 59.99,
         discountPrice: 74.99,
-        image: 'img/service-3.jpg',
+        image: 'images/service-3.jpg',
     },
     {
         id: 4,
@@ -33,7 +33,7 @@ initStore([
             'Award-winning RPG with immersive story and vast world to explore, available for PC with mod support.',
         price: 39.99,
         discountPrice: 59.99,
-        image: 'img/service-4.jpg',
+        image: 'images/service-4.jpg',
     },
     {
         id: 5,
@@ -42,7 +42,7 @@ initStore([
             'High-speed superhero action with cinematic storytelling, exclusively developed for PlayStation 5.',
         price: 69.99,
         discountPrice: 79.99,
-        image: 'img/service-5.jpg',
+        image: 'images/service-5.jpg',
     },
     {
         id: 6,
@@ -51,6 +51,6 @@ initStore([
             'Next-gen space exploration RPG from the creators of Skyrim, available for PC and Xbox platforms.',
         price: 69.99,
         discountPrice: 84.99,
-        image: 'img/service-6.jpg',
+        image: 'images/service-6.jpg',
     }
 ]);
